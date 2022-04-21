@@ -1,0 +1,30 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f6f8f9;
+}
+header{
+    background-color: white;
+}
+.header-container{
+    width: 90%;
+    margin: auto;
+    background-color: white;
+}
+.img{
+    background-image: url("../img/logo.png");
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.title{
+    display: inline-block;
+    font-size: 30px;
+    font-weight: 800;
+    vertical-align: middle;
+}
